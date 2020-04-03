@@ -49,7 +49,7 @@ h2{
 .form-control small{
     color: red;
     position: absolute;
-    bottom: 0;
+    bottom: 1;
     left: 0;
     visibility: hidden;
 }
